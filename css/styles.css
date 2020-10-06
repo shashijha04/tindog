@@ -42,6 +42,9 @@ padding:0 0 4.5rem;
 }
 
 .title-image{
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-bottom: 1rem;
     width: 60%;
     transform: rotate(25deg);
 }
